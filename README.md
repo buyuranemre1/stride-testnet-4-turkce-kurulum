@@ -1,4 +1,4 @@
-# testnet-manuals-stride-testnet
+# STRIDE-TESTNET-4 Türkçe Kurulum Rehberi
 Description of how to install stride testnet on your server (in Turkish)
 # Stride node setup - STRIDE-TESTNET-4
 Resmi Dökümantasyon:
