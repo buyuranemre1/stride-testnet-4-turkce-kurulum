@@ -135,7 +135,7 @@ Eğer gerekliyse `client.toml` içindeki keyring-backend'i değiştirelim
 ```
 strided config keyring-backend os
 ```
-`app.toml` içindeki münümum gaz ücretini ayarlayalım
+`app.toml` içindeki minimum gaz ücretini ayarlayalım
 ```
 sed -i.bak -e "s/^minimum-gas-prices *=.*/minimum-gas-prices = \"0.0025ustrd\"/;" ~/.stride/config/app.toml
 ```
